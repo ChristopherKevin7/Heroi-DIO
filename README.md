@@ -28,13 +28,13 @@ O código foi escrito em **JavaScript** e utiliza um array de objetos para armaz
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 2. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/ChristopherKevin7/Heroi-DIO.git
 3. Navegue até o diretório do projeto:
    ```bash
-    cd nome-do-repositorio
+    cd Heroi-DIO
 4. Execute o script com o comando:
     ```bash
-    node nome-do-arquivo.js
+    node main.js
 
 ## Tecnologias Utilizadas
 - JavaScript
